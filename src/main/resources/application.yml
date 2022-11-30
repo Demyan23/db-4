@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/kucher
+    username: root
+    password: 11080811
+    driver-class-name: com.mysql.cj.jdbc.Driver
